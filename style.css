@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+#box{
+    display: flex;
+    background: red;
+    width: 50%;
+    margin: 6rem;
+    padding: 2rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    box-shadow: 4px 4px 12px black;
+
+}
+
+
